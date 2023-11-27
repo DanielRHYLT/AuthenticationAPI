@@ -1,0 +1,11 @@
+C:\Web\CAPSTONE-Project\APIAuthentication\Authorization\Authorization.CORE\bin\Debug\net7.0\Authorization.CORE.deps.json
+C:\Web\CAPSTONE-Project\APIAuthentication\Authorization\Authorization.CORE\bin\Debug\net7.0\Authorization.CORE.dll
+C:\Web\CAPSTONE-Project\APIAuthentication\Authorization\Authorization.CORE\bin\Debug\net7.0\Authorization.CORE.pdb
+C:\Web\CAPSTONE-Project\APIAuthentication\Authorization\Authorization.CORE\obj\Debug\net7.0\Authorization.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Web\CAPSTONE-Project\APIAuthentication\Authorization\Authorization.CORE\obj\Debug\net7.0\Authorization.CORE.AssemblyInfoInputs.cache
+C:\Web\CAPSTONE-Project\APIAuthentication\Authorization\Authorization.CORE\obj\Debug\net7.0\Authorization.CORE.AssemblyInfo.cs
+C:\Web\CAPSTONE-Project\APIAuthentication\Authorization\Authorization.CORE\obj\Debug\net7.0\Authorization.CORE.csproj.CoreCompileInputs.cache
+C:\Web\CAPSTONE-Project\APIAuthentication\Authorization\Authorization.CORE\obj\Debug\net7.0\Authorization.CORE.dll
+C:\Web\CAPSTONE-Project\APIAuthentication\Authorization\Authorization.CORE\obj\Debug\net7.0\refint\Authorization.CORE.dll
+C:\Web\CAPSTONE-Project\APIAuthentication\Authorization\Authorization.CORE\obj\Debug\net7.0\Authorization.CORE.pdb
+C:\Web\CAPSTONE-Project\APIAuthentication\Authorization\Authorization.CORE\obj\Debug\net7.0\ref\Authorization.CORE.dll

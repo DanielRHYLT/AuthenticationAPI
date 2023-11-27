@@ -1,0 +1,17 @@
+C:\Web\CAPSTONE-Project\APIAuthentication\Authorization\Authorization.INFRAESTRUCTURE\bin\Debug\net7.0\Authorization.INFRAESTRUCTURE.deps.json
+C:\Web\CAPSTONE-Project\APIAuthentication\Authorization\Authorization.INFRAESTRUCTURE\bin\Debug\net7.0\Authorization.INFRAESTRUCTURE.runtimeconfig.json
+C:\Web\CAPSTONE-Project\APIAuthentication\Authorization\Authorization.INFRAESTRUCTURE\bin\Debug\net7.0\Authorization.INFRAESTRUCTURE.dll
+C:\Web\CAPSTONE-Project\APIAuthentication\Authorization\Authorization.INFRAESTRUCTURE\bin\Debug\net7.0\Authorization.INFRAESTRUCTURE.pdb
+C:\Web\CAPSTONE-Project\APIAuthentication\Authorization\Authorization.INFRAESTRUCTURE\bin\Debug\net7.0\Authorization.CORE.dll
+C:\Web\CAPSTONE-Project\APIAuthentication\Authorization\Authorization.INFRAESTRUCTURE\bin\Debug\net7.0\Authorization.CORE.pdb
+C:\Web\CAPSTONE-Project\APIAuthentication\Authorization\Authorization.INFRAESTRUCTURE\obj\Debug\net7.0\Authorization.INFRAESTRUCTURE.csproj.AssemblyReference.cache
+C:\Web\CAPSTONE-Project\APIAuthentication\Authorization\Authorization.INFRAESTRUCTURE\obj\Debug\net7.0\Authorization.INFRAESTRUCTURE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Web\CAPSTONE-Project\APIAuthentication\Authorization\Authorization.INFRAESTRUCTURE\obj\Debug\net7.0\Authorization.INFRAESTRUCTURE.AssemblyInfoInputs.cache
+C:\Web\CAPSTONE-Project\APIAuthentication\Authorization\Authorization.INFRAESTRUCTURE\obj\Debug\net7.0\Authorization.INFRAESTRUCTURE.AssemblyInfo.cs
+C:\Web\CAPSTONE-Project\APIAuthentication\Authorization\Authorization.INFRAESTRUCTURE\obj\Debug\net7.0\Authorization.INFRAESTRUCTURE.csproj.CoreCompileInputs.cache
+C:\Web\CAPSTONE-Project\APIAuthentication\Authorization\Authorization.INFRAESTRUCTURE\obj\Debug\net7.0\Authorization.INFRAESTRUCTURE.csproj.CopyComplete
+C:\Web\CAPSTONE-Project\APIAuthentication\Authorization\Authorization.INFRAESTRUCTURE\obj\Debug\net7.0\Authorization.INFRAESTRUCTURE.dll
+C:\Web\CAPSTONE-Project\APIAuthentication\Authorization\Authorization.INFRAESTRUCTURE\obj\Debug\net7.0\refint\Authorization.INFRAESTRUCTURE.dll
+C:\Web\CAPSTONE-Project\APIAuthentication\Authorization\Authorization.INFRAESTRUCTURE\obj\Debug\net7.0\Authorization.INFRAESTRUCTURE.pdb
+C:\Web\CAPSTONE-Project\APIAuthentication\Authorization\Authorization.INFRAESTRUCTURE\obj\Debug\net7.0\Authorization.INFRAESTRUCTURE.genruntimeconfig.cache
+C:\Web\CAPSTONE-Project\APIAuthentication\Authorization\Authorization.INFRAESTRUCTURE\obj\Debug\net7.0\ref\Authorization.INFRAESTRUCTURE.dll
