@@ -50,6 +50,7 @@ namespace Authorization.CORE.Services
                 Username = usersRegisterDTO.Username,
                 Email = usersRegisterDTO.Email,
                 Password = usersRegisterDTO.Password,
+                RegistrationDate = usersRegisterDTO.RegistrationDate,
                 RoleId = 2
             };
 
